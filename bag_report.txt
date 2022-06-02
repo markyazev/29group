@@ -1,0 +1,9 @@
+Summary
+Project
+Component
+Version
+Priority
+Steps of Reproduce
+AR
+ER
+Additional onformation
